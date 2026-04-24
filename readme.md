@@ -1,4 +1,7 @@
-
+![GitHub repo size](https://img.shields.io/github/repo-size/shamanshetty07/SDN_CNLAB)
+![GitHub stars](https://img.shields.io/github/stars/shamanshetty07/SDN_CNLAB?style=social)
+![GitHub forks](https://img.shields.io/github/forks/shamanshetty07/SDN_CNLAB?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/shamanshetty07/SDN_CNLAB)
 
 # 🌐 SDN-CNLAB
 
@@ -44,7 +47,7 @@ SDN-CNLAB/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/SDN-CNLAB.git
+git clone https://github.com/shamanshetty07/SDN_CNLAB.git
 
 # Navigate to project folder
 cd SDN-CNLAB
@@ -60,17 +63,19 @@ sudo apt install mininet
 ---
 
 ## ▶️ Usage
-- Run individual experiment files from the `experiments/` folder
-- Modify configurations as needed
-- Use tools like Wireshark for packet analysis
+- Navigate to the required experiment folder
+- Run the program using appropriate commands (Python/C/Java)
+- Analyze outputs and network behavior
+- Use Wireshark for packet-level inspection (optional)
 
 ---
 
 ## 📚 Lab Experiments (Example)
-- Experiment 1: Basic Networking Commands
-- Experiment 2: Socket Programming
-- Experiment 3: Routing Algorithms
-- Experiment 4: SDN using Mininet
+- Experiment 1: Basic Networking Commands (Ping, Traceroute, Netstat)
+- Experiment 2: Client-Server Socket Programming
+- Experiment 3: Routing Algorithms (Dijkstra / Distance Vector)
+- Experiment 4: SDN Topology using Mininet
+- Experiment 5: Packet Analysis using Wireshark
 
 ---
 
@@ -86,12 +91,13 @@ Contributions are welcome!
 ---
 
 ## 📄 License
-This project is for educational purposes.
+This project is intended for educational and academic use. Feel free to use and modify it for learning purposes.
 
 ---
 
 ## 👤 Author
 - **Shaman Shetty**
+- GitHub: https://github.com/shamanshetty07
 
 
 ---
